@@ -22,4 +22,4 @@ unzip file.epub
 Then jack in from your editor (or run `clj -M:nrepl` and connect to the given
 port) and evaluate the `let` form at the bottom of `src/com/yakread/tools.clj`.
 
-See the [issues](issues).
+See the [issues](https://github.com/jacobobryant/yaktools/issues).
